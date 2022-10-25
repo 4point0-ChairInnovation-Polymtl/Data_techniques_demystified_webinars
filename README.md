@@ -8,7 +8,7 @@ This tutorial is a short hands-on workshop to introduce the analysis of unstruct
 
 This presentaion will continue in French. 
 
-Follow our [LinkedIn page](https://www.linkedin.com/posts/4point0_atelier-nouvelles-m%C3%A9thodes-danalyse-et-activity-6989616382971633665-hlIV?utm_source=share&utm_medium=member_desktop) for further informaiton and for recording of the event
+Follow our [LinkedIn page](https://www.linkedin.com/posts/4point0_atelier-nouvelles-m%C3%A9thodes-danalyse-et-activity-6989616382971633665-hlIV?utm_source=share&utm_medium=member_desktop) for further informations and for the recording of the event
 
 --------------------------
 Cet atelier s’inscrit dans le cadre de la formation [Mégadonnées et techniques avancées démystifiées](https://www.4point0.ca/2022/08/22/formation-megadonnees-demystifiees/)
