@@ -26,7 +26,7 @@ Structure de l’atelier séance 6:
 Structure de l’atelier séance 7:
 
     - Partie 1 : Présentation en mode plénière des méthodes supervisées et non supervisées avec un script Python (60 minutes)
-    - Partie 2 : Partie 2 : Travail individuel et en équipe (20 minutes)
+    - Partie 2 : Travail individuel et en équipe (20 minutes)
     - Partie 3 : Conclusion en mode plénière (10 minutes)
            
 Que vous ayez des compétences en programmation Python ou non, cet atelier vous permettra de mettre à profit vos connaissances en statistiques et en analyse de données, et de découvrir les possibilités de traitement automatique du langage naturel.
