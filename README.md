@@ -36,9 +36,4 @@ Authors:
     - Bruno Agard, bruno.agard@polymtl.ca
     - Davide Pulizzotto, davide.pulizzotto@polymtl.ca
    
-Table of Contents
-
-    Section 0. Préparation environnement
-    Section 1. Préparation des données textuelles
-    Section 2. Exercise : Analyse de sentiment sur Twitter
 
